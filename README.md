@@ -1,6 +1,8 @@
 # COVID-19
+7 May: FB Prophet forecasting method fine tuned with MCMC samples enabled and a good model for NY was generated. ARIMA forecast still unusable.
+A reporting issue in NY impacted the data as NYT started to report suspected COVID-19 deaths rather than only the ones confirmed by testing.
 
-Update on 3 May 2020: I attempted ARIMA and FB Prophet models to forecast future infections. Both models behaved badly!
+3 May 2020: I attempted ARIMA and FB Prophet models to forecast future infections. Both models behaved badly!
 
 Exploratory Data Analysis using open source datasets such as NYT
 I'm using an open-source dataset available from the New York Time: 'https://github.com/nytimes/covid-19-data/raw/master/us-states.csv' / https://github.com/nytimes/covid-19-data
