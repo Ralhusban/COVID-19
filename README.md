@@ -1,5 +1,5 @@
 # COVID-19
-17 May: Added COVID 19 projects in Federal Prisons & Ontario, CA. Expanded furher graphics & use of plotly
+17 May: Added COVID 19 projects in Federal Prisons & Ontario, CA. Expanded furher graphics & use of plotly. For Canadian Data, I decided to use data from the Government of Ontario as being the most reliable.
 7 May: FB Prophet forecasting method fine tuned with MCMC samples enabled and a good model for NY was generated. ARIMA forecast still unusable.
 A reporting issue in NY impacted the data as NYT started to report suspected COVID-19 deaths rather than only the ones confirmed by testing.
 
