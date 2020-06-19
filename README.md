@@ -1,4 +1,9 @@
 # COVID-19
+18 June: 
+- Updated charts with latest data (US & Canada)
+- Fixed date formatting in the charts
+- New Plotly charts
+
 17 May: Added COVID 19 projects in Federal Prisons (Using the Marshal Project Data) & Ontario, CA (GVT of Ontario Data). Expanded furher graphics & use of plotly. For Canadian Data, I decided to use data from the Government of Ontario as being the most reliable.
 
 7 May: FB Prophet forecasting method fine tuned with MCMC samples enabled and a good model for NY was generated. ARIMA forecast still unusable.
