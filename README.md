@@ -1,4 +1,8 @@
 # COVID-19
+9 July:
+COVID dashboards in Federal facilities, US (NY&VA), Canada (ON) updated.
+Comments in the US Federal facilities updated to make it easier to understand
+
 18 June: 
 - Updated charts with latest data (US & Canada)
 - Fixed date formatting in the charts
