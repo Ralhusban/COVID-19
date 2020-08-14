@@ -1,6 +1,7 @@
 # COVID-19
 
 13 August: Updated charts, added a counter with 'Days with under 100 infections reported' as this is being an important milestone for the province after Phase III re-opening included Toronto, Peel, and Windsor regions.
+
 9 July:
 COVID dashboards in Federal facilities, US (NY&VA), Canada (ON) updated.
 Comments in the US Federal facilities updated to make it easier to understand
