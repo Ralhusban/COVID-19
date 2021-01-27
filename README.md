@@ -1,4 +1,13 @@
 # COVID-19
+27 January 2021
+
+Code optimized, charts tweaks, particularely automation of annotation spacing.
+FB Prophet model tweaked to imporve earlier convergance
+Reporting period trimmed to start from July 2020 as charts were getting crowded with data from the first wave
+Any suggestions are welcome!
+
+
+
 29 October 2020
 
 Dashboards optimized, and more charts added, particularely age group break down of infections.
